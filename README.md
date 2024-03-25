@@ -1,11 +1,3 @@
-<style>
-   .banner{
-       width: 110px; 
-       height: auto; 
-       font-size: 12px;
-   }
-</style>
-
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 Olá! Sou Wesley Rodrigues Moreira, um desenvolvedor web back-end apaixonado por criar soluções inovadoras para desafios complexos. Iniciei minha jornada na área de desenvolvimento web aos 15 anos e desde então tenho explorado uma variedade de tecnologias e frameworks para aprimorar minhas habilidades.
@@ -36,7 +28,7 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 
 ## Projetos Relevantes
 
-- [Vacation Plan](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel)-Em Andamento
+- [Vacation Plan](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel) - Em Andamento
 
 ## Projetos Futuros
 
@@ -53,7 +45,7 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
      <img src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" alt="JavaScript">
     <img src="https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221" alt="MySQL">
     <img style="width: 110px; height: auto; font-size: 12px;" src="assets/phpMyAdmin.png" alt="phpMyadmin">
-    <img class="banner" src="assets/sql.png" alt="SQL">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/sql.png" alt="SQL">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" alt="CSS3">  
 </div>
@@ -61,53 +53,61 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 ## Tecnologias e Ferramentas - em estudo
 <div style="display: flex;">
 
+ - PHP
+   <br>
+   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/PHPUnit.png" alt="PHPUnit">
+   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/LaravelDusk.png" alt="Laravel Dusk">
+   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/yii.png" alt="Yii">
+   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/postman.png" alt="Postman">
+
  - JavaScript
     <br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
-    <img class="banner" src="assets/ajax.png" alt="Ajax">
-    <img class="banner" src="assets/json.png" alt="Json">
-    <img class="banner" src="assets/axios.png" alt="Axios">
-    <img class="banner" src="assets/node.js.png" alt="Node.js">
-    <img class="banner" src="assets/fastify.png" alt="Fastify">
-    <img class="banner" src="assets/prisma.png" alt="Prisma ORM">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/ajax.png" alt="Ajax">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/json.png" alt="Json">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/axios.png" alt="Axios">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/node.js.png" alt="Node.js">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/fastify.png" alt="Fastify">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/prisma.png" alt="Prisma ORM">
     <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" alt="React">
 
  - TypeScript
     <br>
     <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
-    <img class="banner" src="assets/zod.png" alt="Zod">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/zod.png" alt="Zod">
 
  - Banco de Dados
     <br>
-    <img class="banner" src="assets/docker.png" alt="Docker">
-    <img class="banner" src="assets/redis.png" alt="Redis">
-    <img class="banner" src="assets/postgre.png" alt="Postgre SQL">
-    <img class="banner" src="assets/web.png" alt="WebSocket">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/redis.png" alt="Redis">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/postgre.png" alt="Postgre SQL">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/web.png" alt="WebSocket">
    
 
  - Segurança da Informação
     <br>
-    <img class="banner" src="assets/docker.png" alt="Segurança da informação">
-    <img class="banner" src="assets/docker.png" alt="Docker">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Segurança da informação">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
 
  - Nuvem
     <br>
-    <img class="banner" src="assets/aws.png" alt="Aws">
-    <img class="banner" src="assets/google.png" alt="Google">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/aws.png" alt="Aws">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/google.png" alt="Google">
 
  - Python
     <br>
-    <img class="banner" src="assets/python.png" alt="Python">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/python.png" alt="Python">
 
  - Java
     <br>
-    <img class="banner" src="assets/java.png" alt="Java">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/java.png" alt="Java">
 
  - Inteligência Artificial
     <br>
-    <img class="banner" src="assets/ia.png" alt="Inteligência Artificial">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/ia.png" alt="Inteligência Artificial">
 
 </div>
+
 ## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
