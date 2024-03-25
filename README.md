@@ -1,3 +1,10 @@
+<style>
+   .banner{
+       width: 20px; /* Largura desejada */
+       height: auto; /* Mantém a proporção da imagem */
+   }
+</style>
+
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 Olá! Sou Wesley Rodrigues Moreira, um desenvolvedor web back-end apaixonado por criar soluções inovadoras para desafios complexos. Iniciei minha jornada na área de desenvolvimento web aos 15 anos e desde então tenho explorado uma variedade de tecnologias e frameworks para aprimorar minhas habilidades.
@@ -10,15 +17,15 @@ Estou entusiasmado para enfrentar novos desafios e contribuir para projetos que 
 
 - 🌱 Atualmente, estou constantemente aprimorando meus conhecimentos e buscando aprender    novas tecnologias ou aprofundar meu conhecimento em áreas específicas. Meu processo de      aprendizagem está dividido em módulos que abrangem uma variedade de tópicos essenciais:
 
-PHP
-JavaScript
-TypeScript
-Banco de Dados
-Segurança da Informação
-Nuvem
-Python
-Java
-Inteligência Artificial
+- PHP
+- JavaScript
+- TypeScript
+- Banco de Dados
+- Segurança da Informação
+- Nuvem
+- Python
+- Java
+- Inteligência Artificial
 
 Estou comprometido em explorar cada módulo de maneira aprofundada para me tornar um profissional mais competente e versátil. Através desse aprendizado contínuo, busco estar sempre atualizado e preparado para enfrentar os desafios dinâmicos do mundo da tecnologia.
 
@@ -44,16 +51,17 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel">
      <img src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" alt="JavaScript">
     <img src="https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221" alt="MySQL">
-    <img src="assets/phpMyAdmin.png" alt="phpMyadmin">
-    <img src="assets/sql.png" alt="SQL">
+    <img class="banner" src="assets/phpMyAdmin.png" alt="phpMyadmin">
+    <img class="banner" src="assets/sql.png" alt="SQL">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" alt="CSS3">  
 </div>
 
 ## Tecnologias e Ferramentas - em estudo
 <div style="display: flex;">
+
  - PHP
- 
+
  - JavaScript
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
     <img src="assets/ajax.png" alt="Ajax">
