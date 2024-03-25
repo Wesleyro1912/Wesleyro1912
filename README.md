@@ -1,6 +1,6 @@
 <style>
    .banner{
-       width: 20px; /* Largura desejada */
+       width: -20px; /* Largura desejada */
        height: auto; /* Mantém a proporção da imagem */
    }
 </style>
