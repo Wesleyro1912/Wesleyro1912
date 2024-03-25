@@ -1,7 +1,8 @@
 <style>
    .banner{
-       width: -20px; /* Largura desejada */
-       height: auto; /* Mantém a proporção da imagem */
+       width: 110px; 
+       height: auto; 
+       font-size: 12px;
    }
 </style>
 
@@ -60,42 +61,52 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 ## Tecnologias e Ferramentas - em estudo
 <div style="display: flex;">
 
- - PHP
-
  - JavaScript
+    <br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
-    <img src="assets/ajax.png" alt="Ajax">
-    <img src="assets/json.png" alt="Json">
-    <img src="assets/axios.png" alt="Axios">
-    <img src="assets/node.js.png" alt="Node.js">
-    <img src="assets/fastify.png" alt="Fastify">
-    <img src="assets/prisma.png" alt="Prisma ORM">
+    <img class="banner" src="assets/ajax.png" alt="Ajax">
+    <img class="banner" src="assets/json.png" alt="Json">
+    <img class="banner" src="assets/axios.png" alt="Axios">
+    <img class="banner" src="assets/node.js.png" alt="Node.js">
+    <img class="banner" src="assets/fastify.png" alt="Fastify">
+    <img class="banner" src="assets/prisma.png" alt="Prisma ORM">
     <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" alt="React">
 
  - TypeScript
+    <br>
     <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
-    <img src="assets/zod.png" alt="Zod">
+    <img class="banner" src="assets/zod.png" alt="Zod">
 
  - Banco de Dados
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="Docker">
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="Redis">
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="WebSocket">
+    <br>
+    <img class="banner" src="assets/docker.png" alt="Docker">
+    <img class="banner" src="assets/redis.png" alt="Redis">
+    <img class="banner" src="assets/postgre.png" alt="Postgre SQL">
+    <img class="banner" src="assets/web.png" alt="WebSocket">
+   
 
  - Segurança da Informação
- <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="Zod">
+    <br>
+    <img class="banner" src="assets/docker.png" alt="Segurança da informação">
+    <img class="banner" src="assets/docker.png" alt="Docker">
 
  - Nuvem
- <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
-    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="Zod">
+    <br>
+    <img class="banner" src="assets/aws.png" alt="Aws">
+    <img class="banner" src="assets/google.png" alt="Google">
 
  - Python
- <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
+    <br>
+    <img class="banner" src="assets/python.png" alt="Python">
+
  - Java
- <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
+    <br>
+    <img class="banner" src="assets/java.png" alt="Java">
+
  - Inteligência Artificial
- <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
+    <br>
+    <img class="banner" src="assets/ia.png" alt="Inteligência Artificial">
+
 </div>
 ## Estatísticas do GitHub
 
