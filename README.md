@@ -55,20 +55,20 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 
  - PHP
    <br>
-   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/PHPUnit.png" alt="PHPUnit">
-   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/LaravelDusk.png" alt="Laravel Dusk">
-   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/yii.png" alt="Yii">
-   <img style="width: 110px; height: auto; font-size: 12px;" src="assets/postman.png" alt="Postman">
+   <img style="width: 112px; height: auto; font-size: 12px;" src="assets/PHPUnit.png" alt="PHPUnit">
+   <img style="width: 112px; height: auto; font-size: 12px;" src="assets/LaravelDusk.png" alt="Laravel Dusk">
+   <img style="width: 112px; height: auto; font-size: 12px;" src="assets/yii.png" alt="Yii">
+   <img style="width: 112px; height: auto; font-size: 12px;" src="assets/postman.png" alt="Postman">
 
  - JavaScript
     <br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/ajax.png" alt="Ajax">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/json.png" alt="Json">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/axios.png" alt="Axios">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/node.js.png" alt="Node.js">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/fastify.png" alt="Fastify">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/prisma.png" alt="Prisma ORM">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/ajax.png" alt="Ajax">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/json.png" alt="Json">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/axios.png" alt="Axios">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/node.js.png" alt="Node.js">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/fastify.png" alt="Fastify">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/prisma.png" alt="Prisma ORM">
     <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" alt="React">
 
  - TypeScript
@@ -78,41 +78,38 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 
  - Banco de Dados
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/redis.png" alt="Redis">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/postgre.png" alt="Postgre SQL">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/web.png" alt="WebSocket">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/redis.png" alt="Redis">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/postgre.png" alt="Postgre SQL">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/web.png" alt="WebSocket">
    
 
  - Segurança da Informação
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Segurança da informação">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/seguranca.png" alt="Segurança da informação">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/cyber.png" alt="Cyber Segurança">
 
  - Nuvem
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/aws.png" alt="Aws">
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/google.png" alt="Google">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/aws.png" alt="Aws">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/google.png" alt="Google">
 
  - Python
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/python.png" alt="Python">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/python.png" alt="Python">
 
  - Java
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/java.png" alt="Java">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/java.png" alt="Java">
 
  - Inteligência Artificial
     <br>
-    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/ia.png" alt="Inteligência Artificial">
+    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/ia.png" alt="Inteligência Artificial">
 
 </div>
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&show_icons=true&theme=github_dark)
-
 ## Entre em Contato
 
-- 📫 Você pode me enviar um e-mail
+- [ 📫 Você pode me enviar um e-mail](wesley1912@gmail.com)
+- [Baixar Currículo](assets/curriculo-Wesley.pdf)
+
