@@ -10,17 +10,17 @@ Estou entusiasmado para enfrentar novos desafios e contribuir para projetos que 
 
 - 🌱 Atualmente, estou constantemente aprimorando meus conhecimentos e buscando aprender    novas tecnologias ou aprofundar meu conhecimento em áreas específicas. Meu processo de      aprendizagem está dividido em módulos que abrangem uma variedade de tópicos essenciais:
 
-- PHP
-- JavaScript
-- TypeScript
-- Banco de Dados
-- Segurança da Informação
-- Nuvem
-- Python
-- Java
-- Inteligência Artificial
+1. PHP
+2. JavaScript
+3. TypeScript
+4. Banco de Dados
+5. Segurança da Informação
+6. Nuvem
+7. Python
+8. Java
+9. Inteligência Artificial
 
-Estou comprometido em explorar cada módulo de maneira aprofundada para me tornar um profissional mais competente e versátil. Através desse aprendizado contínuo, busco estar sempre atualizado e preparado para enfrentar os desafios dinâmicos do mundo da tecnologia.
+- Estou comprometido em explorar cada módulo de maneira aprofundada para me tornar um profissional mais competente e versátil. Através desse aprendizado contínuo, busco estar sempre atualizado e preparado para enfrentar os desafios dinâmicos do mundo da tecnologia.
 
 - 💻 Tenho especialização em PHP, Laravel, JavaScript, MySQL, phpMyadmin, SQL, HTML e CSS.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
@@ -54,14 +54,14 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
 <div style="display: flex;">
 
  - PHP
-   <br>
+   <br><br>
    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/PHPUnit.png" alt="PHPUnit">
    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/LaravelDusk.png" alt="Laravel Dusk">
    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/yii.png" alt="Yii">
    <img style="width: 112px; height: auto; font-size: 12px;" src="assets/postman.png" alt="Postman">
 
  - JavaScript
-    <br>
+    <br><br>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/ajax.png" alt="Ajax">
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/json.png" alt="Json">
@@ -72,12 +72,12 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
     <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" alt="React">
 
  - TypeScript
-    <br>
+    <br><br>
     <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
     <img style="width: 110px; height: auto; font-size: 12px;" src="assets/zod.png" alt="Zod">
 
  - Banco de Dados
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/docker.png" alt="Docker">
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/redis.png" alt="Redis">
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/postgre.png" alt="Postgre SQL">
@@ -85,25 +85,25 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
    
 
  - Segurança da Informação
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/seguranca.png" alt="Segurança da informação">
     <img style="width: 110px; height: auto; font-size: 12px;" src="assets/cyber.png" alt="Cyber Segurança">
 
  - Nuvem
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/aws.png" alt="Aws">
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/google.png" alt="Google">
 
  - Python
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/python.png" alt="Python">
 
  - Java
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/java.png" alt="Java">
 
  - Inteligência Artificial
-    <br>
+    <br><br>
     <img style="width: 112px; height: auto; font-size: 12px;" src="assets/ia.png" alt="Inteligência Artificial">
 
 </div>
