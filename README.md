@@ -32,10 +32,10 @@ Estou entusiasmado para enfrentar novos desafios e contribuir para projetos que 
 
 ## Projetos Futuros
 
-- [Portfólio Inteligente](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel)
-- [Gremio SGGE](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel)
-- [Easy Pay](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel)
-- [Cyber Guardian](https://github.com/WesleyRodriguesMoreira/Vacation_Plan-Buzzvel)
+- [Portfólio Inteligente](https://github.com/WesleyRodriguesMoreira/Portfólio_Inteligente)
+- [Gremio SGGE](https://github.com/WesleyRodriguesMoreira/Gremio_SGGE)
+- [Easy Pay](https://github.com/WesleyRodriguesMoreira/Easy_Pay)
+- [Cyber Guardian](https://github.com/WesleyRodriguesMoreira/Cyber_Guardian)
 
 ## Tecnologias e Ferramentas
 
