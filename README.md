@@ -52,7 +52,7 @@ Estou comprometido em explorar cada módulo de maneira aprofundada para me torna
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel">
      <img src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" alt="JavaScript">
     <img src="https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221" alt="MySQL">
-    <img class="banner" src="assets/phpMyAdmin.png" alt="phpMyadmin">
+    <img style="width: 110px; height: auto; font-size: 12px;" src="assets/phpMyAdmin.png" alt="phpMyadmin">
     <img class="banner" src="assets/sql.png" alt="SQL">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" alt="CSS3">  
