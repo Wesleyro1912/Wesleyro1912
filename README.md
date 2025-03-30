@@ -1,10 +1,10 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Sou Wesley Rodrigues Moreira, um desenvolvedor web back-end apaixonado por criar soluções inovadoras para desafios complexos. Iniciei minha jornada na área de desenvolvimento web aos 15 anos e desde então tenho explorado uma variedade de tecnologias e frameworks para aprimorar minhas habilidades.
+Olá! Sou Wesley Rodrigues, um desenvolvedor web back-end apaixonado por transformar desafios complexos em soluções inovadoras.
 
-Com o objetivo de me tornar um desenvolvedor de software completo, estou em constante busca por conhecimento, especialmente em desenvolvimento front-end e mobile. Minha abordagem é sempre focada em simplicidade, eficácia e disciplina em todos os projetos que executo.
+Iniciei minha jornada no desenvolvimento web aos 15 anos e, desde então, venho explorando diversas tecnologias e frameworks para aprimorar minhas habilidades. Meu objetivo é me tornar um desenvolvedor de software completo, sempre buscando conhecimento e evolução contínua.
 
-Estou entusiasmado para enfrentar novos desafios e contribuir para projetos que impactam positivamente as pessoas e as empresas.
+Acredito que a simplicidade, a eficácia e a disciplina são fundamentais para o sucesso de qualquer projeto. Estou sempre pronto para enfrentar novos desafios e contribuir para soluções que impactem positivamente pessoas e empresas.
 
 ## Sobre Mim
 
