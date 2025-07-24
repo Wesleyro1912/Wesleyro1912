@@ -1,22 +1,73 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+<h1 align="center">👨‍💻 Wesley Rodrigues</h1>
+<p align="center">
+Desenvolvedor Back-End | Foco em APIs, Segurança e Soluções Reais
+</p>
 
-Olá! Sou Wesley Rodrigues, um desenvolvedor web back-end apaixonado por transformar desafios complexos em soluções inovadoras. Iniciei minha jornada no desenvolvimento web aos 15 anos e, desde então, venho explorando diversas tecnologias e frameworks para aprimorar minhas habilidades. Meu objetivo é me tornar um desenvolvedor de software completo, sempre buscando conhecimento e evolução contínua. Acredito que a simplicidade, a eficácia e a disciplina são fundamentais para o sucesso de qualquer projeto. Estou sempre pronto para enfrentar novos desafios e contribuir para soluções que impactem positivamente pessoas e empresas.
+---
 
-## Sobre Mim
+### 🚀 Sobre Mim
 
-- 🌱 Atualmente, estou me especializando em back-end, aprofundando meus conhecimentos em diversas linguagens e frameworks. Além disso, estou expandindo minha expertise em gestão de projetos, infraestrutura e inglês, visando uma atuação mais estratégica e completa no desenvolvimento de software.
-- 💻 **Skills:** PHP, Laravel, Codelgniter, JavaScript, MySQL, phpMyadmin, SQL, Scrum, Kanban, GitFlow, Git e GitHub.
-- 🚀 **Soft skills:** Organização, Gestão, Comunicação, Compromisso, Trabalho em equipe, liderança, Aprendizado rápido, Adaptação, Raciocínio Lógico e Proatividade;
-- 🎯 Focado em me tornar um desenvolvedor back end altamente competente e de relevância no mercado.
+Sou **Wesley Rodrigues**, desenvolvedor Back-End com experiência na criação de aplicações web utilizando **PHP (Laravel, CodeIgniter)** e integração com **APIs RESTful**. Meu foco é desenvolver soluções robustas, seguras e alinhadas às regras de negócio, aplicando boas práticas de código e desempenho.
 
-## Projetos Relevantes
+Tenho familiaridade com **versionamento Git**, **testes com Insomnia e PHPUnit**, e atuo em ambientes com **Scrum/Kanban**, sempre priorizando a entrega contínua de valor.
 
-- [To-do-List_API](https://github.com/Wesleyro1912/To-do-List_API)
+Atualmente estou em constante evolução, com interesse crescente em **DevOps (Docker, CI/CD, AWS)** e **segurança de APIs**.
 
-## Entre em Contato
+---
 
-- [ 📫 wesley1912@gmail.com](wesley1912@gmail.com) 
-- 📞 (85) 99410-6288
-- [ 📌 Linkedin|Wesley Rodrigues Moreira](https://www.linkedin.com/in/wesleyrodriguesmoreira/)
-- [Baixar Currículo](assets/Curriculo_DevWesleyRodrigues-BackEnd.pdf)
+### 🧠 Habilidades Técnicas
 
+**Back-end:**
+- PHP, Laravel, CodeIgniter  
+- Integração com APIs REST  
+- Definição de regras de negócio  
+- PHPUnit, Insomnia
+
+**Banco de Dados:**
+- SQL, MySQL  
+- Modelagem e estruturação de dados  
+- phpMyAdmin
+
+**Versionamento e Organização:**
+- Git, GitHub, GitFlow  
+- Scrum, Kanban, Jira, Notion  
+- Clean Code, SOLID
+
+**DevOps e Cloud (em desenvolvimento):**
+- Deploy manual e controle de versões;
+- Infraestrutura com foco em estabilidade e escalabilidade;
+
+**Segurança (em desenvolvimento):**
+ - Validação e sanitização de dados no back-end;
+ - Práticas básicas de segurança em PHP;
+ - Tokens de autenticação;
+ - Interesse em aprofundar em testes, simulações de ataque e segurança de APIs;
+
+---
+
+### 💡 Soft Skills
+
+- Trabalho em equipe e liderança  
+- Comunicação, organização e responsabilidade  
+- Aprendizado rápido, adaptabilidade e raciocínio lógico  
+- Foco em resultado com propósito
+
+---
+
+### 📂 Projetos Relevantes
+
+- [`To-do-List_API`](https://github.com/Wesleyro1912) — API simples para organização de tarefas (CRUD).
+
+---
+
+### 📫 Entre em Contato
+
+- Email: [wesleyro1912@gmail.com](mailto:wesleyro1912@gmail.com)  
+- WhatsApp: [(85) 99410-6288](https://wa.me/5585994106288)  
+- LinkedIn: [linkedin.com/in/wesleyrodriguesmoreira](https://www.linkedin.com/in/wesleyrodriguesmoreira)  
+- [📄 Baixar Currículo (PDF)](assets/Curriculo_DevWesleyRodrigues-BackEnd.pdf)
+
+---
+
+> “Tecnologia só faz sentido quando melhora a vida das pessoas.”  
+> — Wesley Rodrigues
