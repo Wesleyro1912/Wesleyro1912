@@ -65,7 +65,7 @@ Atualmente estou em constante evolução, com interesse crescente em **DevOps (D
 - Email: [wesleyro1912@gmail.com](mailto:wesleyro1912@gmail.com)  
 - WhatsApp: [(85) 99410-6288](https://wa.me/5585994106288)  
 - LinkedIn: [linkedin.com/in/wesleyrodriguesmoreira](https://www.linkedin.com/in/wesleyrodriguesmoreira)  
-- [📄 Baixar Currículo (PDF)](assets/Curriculo_DevWesleyRodrigues-BackEnd.pdf)
+- [📄 Baixar Currículo (PDF)](assets/Wesley_Rodrigues_Curriculo_BackEnd.pdf)
 
 ---
 
