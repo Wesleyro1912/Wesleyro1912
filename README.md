@@ -56,8 +56,8 @@ Atualmente estou em constante evolução, com interesse crescente em **DevOps (D
 
 ### 📂 Projetos Relevantes
 
-- [`Back-end Labs`]([https://github.com/Wesleyro1912/Back_End_Labs]) — API de reutilização para projetos.
-- [`To-do-List_API`]([https://github.com/Wesleyro1912/To-do-List_API]) — API simples para organização de tarefas (CRUD).
+- [`Back-end Labs`](https://github.com/Wesleyro1912/Back_End_Labs) — API de reutilização para projetos.
+- [`To-do-List_API`](https://github.com/Wesleyro1912/To-do-List_API) — API simples para organização de tarefas (CRUD).
 
 ---
 
